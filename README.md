@@ -1,4 +1,4 @@
-# h.w.-question-3-page-35
+# h.w.-question-3-page-35.py
 i = 1
 while i<=5:
     temp = int(input('please enter a number'))
